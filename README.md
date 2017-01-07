@@ -17,7 +17,7 @@
 ![](img/3.png)
 
 ## 获取源码
-`git clone https://github.com/sunhao-java/chrome-navigation.git`
+`git clone https://git.oschina.net/chrome-plugins/chrome-navigation.git`
 
 ## 联系我
 1. Email: sunhao.java@gmail.com
