@@ -19,6 +19,9 @@
 ## 获取源码
 `git clone https://git.oschina.net/chrome-plugins/chrome-navigation.git`
 
+## 下载插件
+`/dist/chrome-navigation.crx`
+
 ## 联系我
 1. Email: sunhao.java@gmail.com
 2. QQ: 867885140
