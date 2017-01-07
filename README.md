@@ -17,7 +17,7 @@
 ![](img/3.png)
 
 ## 获取源码
-`git clone https://git.oschina.net/chrome-plugins/chrome-navigation.git`
+`git clone https://github.com/chrome-plugins/chrome-navigation.git`
 
 ## 下载插件
 `/dist/chrome-navigation.crx`
